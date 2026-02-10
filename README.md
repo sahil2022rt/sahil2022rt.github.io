@@ -81,7 +81,7 @@
    - Click Save
 
 3. **Access your site**
-   - Your site will be available at: `https://sahil2022rt.github.io/portfolio/`
+   - Your site will be available at: `https://sahil2022rt.github.io`
 
 ## 📁 Project Structure
 
